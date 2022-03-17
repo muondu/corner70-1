@@ -1,2 +1,2 @@
 # corner70
-c70 project files
+This are the chamma Corner 70 files.
